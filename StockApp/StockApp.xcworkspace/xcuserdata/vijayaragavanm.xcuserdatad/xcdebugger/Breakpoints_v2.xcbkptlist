@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE7B5303-3107-461A-83BE-C04890C9D863"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14C187A2-0FB2-4676-935C-6082C2B0D52E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StockApp/MyPortfolio/Helper/MyPortfolioHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getPortfolioList(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14C187A2-0FB2-4676-935C-6082C2B0D52E - 92ba7c5fecace724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StockApp.MyPortfolioHelper.getPortfolioList(completionHandler: (Swift.Optional&lt;__C.NSError&gt;, Swift.Optional&lt;Swift.Array&lt;StockApp.Portfolio&gt;&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "StockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vijayaragavanm/Desktop/StockApp/StockApp/MyPortfolio/Helper/MyPortfolioHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2434">
+               </Location>
+               <Location
+                  uuid = "14C187A2-0FB2-4676-935C-6082C2B0D52E - 136efc725a42004c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.NSError&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Bool) -&gt; () in StockApp.MyPortfolioHelper.getPortfolioList(completionHandler: (Swift.Optional&lt;__C.NSError&gt;, Swift.Optional&lt;Swift.Array&lt;StockApp.Portfolio&gt;&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "StockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vijayaragavanm/Desktop/StockApp/StockApp/MyPortfolio/Helper/MyPortfolioHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DB0ADDD-5968-40BB-AD15-4EE582ABC711"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StockApp/MyPortfolio/Helper/MyPortfolioHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getPortfolioList(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDA98C15-A68D-48CB-8353-948F98F7C901"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StockApp/MyPortfolio/Helper/MyPortfolioHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getPortfolioList(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
